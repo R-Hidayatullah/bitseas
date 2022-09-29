@@ -1,2 +1,3 @@
-# bitseas
-new repo
+# Praktikum Pemrograman Framework
+Website Detail Pemesanan Sepatu
+
